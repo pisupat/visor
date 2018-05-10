@@ -1,0 +1,8 @@
+{
+  "name": "visor",
+  "app_id": "c7a8366e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
